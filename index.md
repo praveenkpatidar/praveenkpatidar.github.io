@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/praveenkpatidar/praveenkpatidar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, This is Praveen Patidar. I live in Australia, and work in IT Consulting. Doing technology work is my passion. I am currently working in AWS cloud and specialized in automation using most of well known services and tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Connect with me on LinkedIn : https://www.linkedin.com/in/praveenkpatidar
 
-### Markdown
+Email me at [praveenkpatidar007@gmail.com]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praveenkpatidar/praveenkpatidar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Thank you
+Blogs are coming soon -
