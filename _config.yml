@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
-title: Praveen Kumar Patidar's homepage
-description: Project updates and blog posts
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Praveen Kumar Patidar - Blog Site
+description: DevOps, K8s and AWS Demos code etc.
