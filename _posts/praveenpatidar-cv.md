@@ -1,6 +1,6 @@
 ---
 layout: post
-author: jill
+author: praveen patidar
 ---
 ### Professional Summary
     With 14 years of experience in IT and DevOps, I am a skilled IT professional specializing in modern engineering and cloud-based technologies. I have a reputation for being a productive team member and an effective executor. Throughout my career, I have successfully built teams and managed critical projects for clients, with extensive experience working in AWS, Containers and DevOps space.
