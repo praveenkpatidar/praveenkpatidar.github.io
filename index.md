@@ -12,11 +12,11 @@ Proficiencies:
 AWS | Terraform | CDK | AWS Code* | Jenkins | CloudFormation | Git | Packer | Rational | Java | Python | Ruby | Chef | Puppet | Bash
 
 
-Connect with me on (LinkedIn) [https://www.linkedin.com/in/praveenkpatidar]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/praveenkpatidar)
 
-Email me at (praveenkpatidar007@gmail.com)[mailto:praveenkpatidar007@gmail.com]
+Email me at [praveenpatidar007@gmail.com](mailto:praveenkpatidar007@gmail.com)
 
-```
-- Thank you
-  Blogs are coming soon
-```
+
+
+    Thank you
+    Blogs are coming soon
